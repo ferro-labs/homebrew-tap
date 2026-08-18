@@ -1,0 +1,22 @@
+{
+    "version": "1.4.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ferro-labs/ai-gateway/releases/download/v1.4.4/ferrogw_1.4.4_windows_amd64.zip",
+            "bin": [
+                "ferrogw.exe"
+            ],
+            "hash": "d16fca92a5771651f0166669635fef629672d758ca7f50a145ef655ea142a527"
+        },
+        "arm64": {
+            "url": "https://github.com/ferro-labs/ai-gateway/releases/download/v1.4.4/ferrogw_1.4.4_windows_arm64.zip",
+            "bin": [
+                "ferrogw.exe"
+            ],
+            "hash": "b443f7f7d8c2a76773ff7884f602d2642e188e495f618d3cbc9288e4622be569"
+        }
+    },
+    "homepage": "https://github.com/ferro-labs/ai-gateway",
+    "license": "Apache-2.0",
+    "description": "Open-source AI Gateway for LLM routing"
+}
