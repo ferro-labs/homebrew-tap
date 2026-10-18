@@ -1,19 +1,19 @@
 {
-    "version": "1.5.9",
+    "version": "1.5.10",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ferro-labs/ai-gateway/releases/download/v1.5.9/ferrogw_1.5.9_windows_amd64.zip",
+            "url": "https://github.com/ferro-labs/ai-gateway/releases/download/v1.5.10/ferrogw_1.5.10_windows_amd64.zip",
             "bin": [
                 "ferrogw.exe"
             ],
-            "hash": "13e5bf4d9e7cc9eee7ccc041e0a281b726f7d3e5c47911bc78d5d93b156d9142"
+            "hash": "8b0f80d61e5b554a787906d4463acced9d89b2eaf409b6352476621f6481d0b0"
         },
         "arm64": {
-            "url": "https://github.com/ferro-labs/ai-gateway/releases/download/v1.5.9/ferrogw_1.5.9_windows_arm64.zip",
+            "url": "https://github.com/ferro-labs/ai-gateway/releases/download/v1.5.10/ferrogw_1.5.10_windows_arm64.zip",
             "bin": [
                 "ferrogw.exe"
             ],
-            "hash": "737e6c65fe4f754c3d42fa31c3fd6c7b91113db7355d3c81634553082eacaa73"
+            "hash": "d9037da070e90553a1bc806f7b8ad2efacd6e739af36cc8400aefb27b09e9291"
         }
     },
     "homepage": "https://github.com/ferro-labs/ai-gateway",
